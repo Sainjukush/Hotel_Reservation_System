@@ -14,10 +14,8 @@ hotel-reservation-database/
 ├── .gitignore
 ├── sql/
 │   └── Hotel_reservation_final_code.sql
-├── diagrams/
-│   └── Hotel_Resevation_dbDiagram.pdf
-└── docs/
-    └── screenshots/   (optional)
+└── diagrams/
+    └── Hotel_Resevation_dbDiagram.pdf
 ```
 
 ---
